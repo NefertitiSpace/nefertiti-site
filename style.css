@@ -34,23 +34,7 @@ a {
 
 a:hover {
   background-color: #ff2f6b;
-}
-/* Bouton En savoir plus */
-.btn {
-    display: inline-block;
-    margin: 20px auto;
-    padding: 12px 25px;
-    background-color: #ff4f8b;
-    color: white;
-    font-size: 18px;
-    text-decoration: none;
-    border-radius: 8px;
-    transition: 0.3s;
-}
 
-.btn:hover {
-    background-color: #ff2f6b;
-}
 /* Centrer le bouton sous le logo */
 .button-container {
     display: flex;
