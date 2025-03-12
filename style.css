@@ -51,3 +51,9 @@ a:hover {
 .btn:hover {
     background-color: #ff2f6b;
 }
+/* Centrer le bouton sous le logo */
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
