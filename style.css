@@ -53,3 +53,10 @@ a {
     justify-content: center;
     margin-top: 20px;
 }
+
+/* Centrer le bouton sous le logo */
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
